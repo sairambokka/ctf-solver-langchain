@@ -3,3 +3,7 @@ langchain-community
 langgraph
 langchain-ollama
 langchain-mcp-adapters
+langsmith
+python-dotenv
+langchain-nvidia-ai-endpoints
+e2b
